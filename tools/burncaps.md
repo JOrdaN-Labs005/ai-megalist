@@ -12,7 +12,7 @@ Free to use: two videos every 30 days with no mark, or $49 once for unlimited vi
 
 ## Gotchas
 
-Burning captions into the video needs Chrome, Edge, Brave or Arc on a computer; Safari and Firefox can still make subtitle files. Long recordings are slower on slow machines because the work is done on yours.
+Export is fastest in Chrome or Edge on a computer; many phones export too, more slowly. Long recordings are slower on slow machines because the work is done on yours.
 
 ## Alternatives
 
